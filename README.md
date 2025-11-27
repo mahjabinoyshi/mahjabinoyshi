@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mahjabin Siddika Oyshi  
+# Hi, I'm Mahjabin Siddika Oyshi  
 
 🎓 **B.Sc. in Statistics (CGPA: 3.93/4.00)**  
 📍 Bangladesh  
@@ -8,14 +8,14 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 I am passionate about turning raw data into meaningful insights.  
 Currently exploring **R Programming**, **Data Analytics**, **Machine Learning**, and **NLP**.  
 I aim to contribute to open-source and grow in the data-driven world.
 
 ---
 
-## 🛠️ Skills  
+## Skills  
 **Languages & Tools:**  
 - Python • R • SQL • Excel • SPSS • STATA  
 - Power BI • Tableau  
@@ -30,7 +30,7 @@ I aim to contribute to open-source and grow in the data-driven world.
 
 ---
 
-## 📂 Featured Projects  
+## Featured Projects  
 - **Bangla Agricultural Advisor Chatbot** – NLP & Streamlit chatbot for farmers  
 - **Students’ Mental Health Dashboard** – Interactive Power BI dashboard  
 - **Coffee Shop Sales Analysis** – Competition project, 4th place  
@@ -38,7 +38,7 @@ I aim to contribute to open-source and grow in the data-driven world.
 
 ---
 
-## 🔬 Research  
+## Research  
 - Lightweight CNN for Malaria Parasite Detection *(Under review)*  
 - GAN-based Survival Prediction *(Under review)*  
 - Supply Chain Blockchain (Journal Publication, 2025)  
@@ -46,14 +46,14 @@ I aim to contribute to open-source and grow in the data-driven world.
 
 ---
 
-## 🏆 Achievements    
+## Achievements    
 - 🥈 2nd Runner-up – Data Innovators Challenge  
 - 🏅 Top performer (4th position) – CoU Hackathon 2024  
 - 🎖️ Top participant – Multiple national data competitions  
 
 ---
 
-## 📘 Currently Learning  
+## Currently Learning  
 - R Programming  
 - R Package Development  
 - Statistical Modeling in R  
@@ -61,14 +61,14 @@ I aim to contribute to open-source and grow in the data-driven world.
 
 ---
 
-## 🎯 Goals for 2026  
+## Goals for 2026  
 - Build R packages  
 - Contribute to open-source  
 
 
 ---
 
-## 🤝 Let’s Connect  
+## Let’s Connect  
 I'm always open to collaboration on data projects, research, and open-source contributions.  
 📩 Feel free to reach out anytime!
 
