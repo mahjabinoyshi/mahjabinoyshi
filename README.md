@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahjabin Siddika Oyshi  
 
-<!--
-**mahjabinoyshi/mahjabinoyshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Sc. in Statistics (CGPA: 3.93/4.00)**  
+📍 Bangladesh  
+🔍 **Data Analyst | Data Science Enthusiast | ML Enthusiast | Statistician & R lover**  
+📧 oyshimahjabin3@gmail.com | 📞 +8801971388486  
+🔗 [LinkedIn](https://www.linkedin.com/in/mahjabinoyshi/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+I am passionate about turning raw data into meaningful insights.  
+Currently exploring **R Programming**, **Data Analytics**, **Machine Learning**, and **NLP**.  
+I aim to contribute to open-source and grow in the data-driven world.
+
+---
+
+## 🛠️ Skills  
+**Languages & Tools:**  
+- Python • R • SQL • Excel • SPSS • STATA  
+- Power BI • Tableau  
+- Streamlit • Git & GitHub  
+
+**Core Skills:**  
+- Data Analytics  
+- Data Visualization  
+- Machine Learning  
+- NLP  
+- Statistical Analysis  
+
+---
+
+## 📂 Featured Projects  
+- **Bangla Agricultural Advisor Chatbot** – NLP & Streamlit chatbot for farmers  
+- **Students’ Mental Health Dashboard** – Interactive Power BI dashboard  
+- **Coffee Shop Sales Analysis** – Competition project, 4th place  
+- **E-commerce Customer Behavior Dashboard** – National runner-up
+
+---
+
+## 🔬 Research  
+- Lightweight CNN for Malaria Parasite Detection *(Under review)*  
+- GAN-based Survival Prediction *(Under review)*  
+- Supply Chain Blockchain (Journal Publication, 2025)  
+- ML Techniques for Cybersecurity (Journal Publication, 2025)
+
+---
+
+## 🏆 Achievements    
+- 🥈 2nd Runner-up – Data Innovators Challenge  
+- 🏅 Top performer (4th position) – CoU Hackathon 2024  
+- 🎖️ Top participant – Multiple national data competitions  
+
+---
+
+## 📘 Currently Learning  
+- R Programming  
+- R Package Development  
+- Statistical Modeling in R  
+- Open-source contribution workflow  
+
+---
+
+## 🎯 Goals for 2026  
+- Build R packages  
+- Contribute to open-source  
+
+
+---
+
+## 🤝 Let’s Connect  
+I'm always open to collaboration on data projects, research, and open-source contributions.  
+📩 Feel free to reach out anytime!
+
