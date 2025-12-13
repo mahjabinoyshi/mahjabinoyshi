@@ -39,8 +39,7 @@ I aim to contribute to open-source and grow in the data-driven world.
 ---
 
 ## Research  
-- Lightweight CNN for Malaria Parasite Detection *(Under review)*  
-- GAN-based Survival Prediction *(Under review)*  
+- Lightweight CNN for Malaria Parasite Detection *(Under review)*   
 - Supply Chain Blockchain (Journal Publication, 2025)  
 - ML Techniques for Cybersecurity (Journal Publication, 2025)
 
@@ -54,7 +53,8 @@ I aim to contribute to open-source and grow in the data-driven world.
 ---
 
 ## Currently Learning  
-- R Programming  
+- R Programming
+- Machine Learning with R  
 - R Package Development  
 - Statistical Modeling in R  
 - Open-source contribution workflow  
