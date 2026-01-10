@@ -3,7 +3,7 @@
 🎓 **B.Sc. in Statistics (CGPA: 3.93/4.00)**  
 📍 Bangladesh  
 🔍 **Data Analyst | Data Science Enthusiast | ML Enthusiast | Statistician & R lover**  
-📧 oyshimahjabin3@gmail.com | 📞 +8801971388486  
+📧 oyshimahjabin3@gmail.com |  
 🔗 [LinkedIn](https://www.linkedin.com/in/mahjabinoyshi/)
 
 ---
