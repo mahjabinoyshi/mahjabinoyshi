@@ -9,7 +9,7 @@
 ---
 
 ## About Me  
-I am passionate about turning raw data into meaningful insights.  
+Hello,I am Oyshi.I am passionate about turning raw data into meaningful insights, working as a Data Analytics TA at Ostad.  
 Currently exploring **R Programming**, **Data Analytics**, **Machine Learning**, and **NLP**.  
 I aim to contribute to open-source and grow in the data-driven world.
 
