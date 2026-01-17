@@ -29,14 +29,16 @@ I aim to contribute to open-source and grow in the data-driven world.
 - Statistical Analysis  
 
 ---
-
+  
 ## Featured Projects  
+
 - **Bangla Agricultural Advisor Chatbot** – NLP & Streamlit chatbot for farmers  
-- Students’ Mental Health Dashboard – Interactive Power BI dashboard  
-  [View project files and dashboard](projects/students-mental-health-dashboard/)
+- **Students’ Mental Health Dashboard – Interactive Power BI dashboard**  
+  [View project files and dashboard](projects/students-mental-health-dashboard/)  
 
 - **Coffee Shop Sales Analysis** – Competition project, 4th place  
 - **E-commerce Customer Behavior Dashboard** – National runner-up
+
 
 ---
 
