@@ -102,30 +102,40 @@ I explore **R Programming, Data Analytics, Machine Learning, and NLP**, and acti
 
 ## 📊 GitHub Analytics (Live)
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mahjabinoyshi&show_icons=true&theme=radical&count_private=true&hide_border=false" 
+## 📊 GitHub Analytics (Live)
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mahjabinoyshi&show_icons=true&theme=radical&count_private=true&hide_border=false"
     alt="GitHub Stats" height="170"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahjabinoyshi&layout=compact&theme=radical&hide_border=false" 
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahjabinoyshi&layout=compact&theme=radical&hide_border=false"
     alt="Top Languages" height="170"
   />
-</p>
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=mahjabinoyshi&theme=radical&hide_border=false" 
+</div>
+
+<div align="center" style="margin-top: 10px;">
+
+  <img
+    src="https://streak-stats.demolab.com?user=mahjabinoyshi&theme=radical&hide_border=false"
     alt="GitHub Streak"
   />
-</p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mahjabinoyshi&theme=tokyo-night&area=true&hide_border=false" 
+</div>
+
+<div align="center" style="margin-top: 10px;">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mahjabinoyshi&theme=tokyo-night&area=true&hide_border=false"
     alt="Mahjabin Siddika Oyshi's Contribution Graph"
   />
-</p>
+
+</div>
+
 
 ---
 
