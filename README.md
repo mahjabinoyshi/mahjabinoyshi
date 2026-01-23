@@ -39,18 +39,10 @@
 
 ## 👩‍💻 About Me  
 
-<div align="center" style="margin-bottom: 20px;">
-  <img 
-    src="https://github-widgetbox.vercel.app/api/profile?username=mahjabinoyshi&data=followers,repositories,stars,commits&theme=nautilus" 
-    alt="Profile Widget" 
-  />
-</div>
+<img 
+  src="https://github-widgetbox.vercel.app/api/profile?username=mahjabinoyshi&data=followers,repositories,stars,commits&theme=radical" 
+/>
 
-<p align="left">
-Hello, I am Oyshi. I am passionate about turning raw data into meaningful insights and work as a <b>Data Analytics TA at Ostad</b>, guiding learners in Excel, SQL, and Power BI.  
-<br><br>
-I explore <b>R Programming</b>, <b>Data Analytics</b>, <b>Machine Learning</b>, and <b>NLP</b>, and actively contribute to open‑source projects in the <b>R ecosystem</b>.  
-</p>
 
 
 ## 🧠 Tech Stack & Skills
