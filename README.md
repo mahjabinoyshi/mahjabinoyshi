@@ -39,14 +39,33 @@
 
 ## 👩‍💻 About Me  
 
-## 👩‍💻 About Me  
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/197597579?v=4" alt="Mahjabin Siddika Oyshi" width="120" style="border-radius: 50%;" />
+</p>
 
-<div align="center" style="margin-top: 10px; margin-bottom: 20px;">
-  <img 
-    src="https://github-widgetbox.vercel.app/api/profile?username=mahjabinoyshi&data=followers,repositories,stars,commits&theme=nautilus" 
-    alt="Profile Widget" 
-  />
-</div>
+<h3 align="center">Mahjabin Siddika Oyshi</h3>
+
+<p align="center">
+  <a href="https://github.com/mahjabinoyshi">
+    <img src="https://img.shields.io/badge/GitHub-mahjabinoyshi-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/mahjabinoyshi?tab=followers">
+    <img src="https://img.shields.io/github/followers/mahjabinoyshi?label=Followers&style=for-the-badge&color=0ea5e9" />
+  </a>
+  <a href="https://github.com/mahjabinoyshi?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-12-22c55e?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/mahjabinoyshi?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-3-f97316?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p align="left">
+Hello, I am Oyshi. I am passionate about turning raw data into meaningful insights and work as a <b>Data Analytics TA at Ostad</b>, guiding learners in Excel, SQL, and Power BI.  
+<br><br>
+I explore <b>R Programming</b>, <b>Data Analytics</b>, <b>Machine Learning</b>, and <b>NLP</b>, and actively contribute to open‑source projects in the <b>R ecosystem</b>.  
+</p>
+
 ---
 
 
