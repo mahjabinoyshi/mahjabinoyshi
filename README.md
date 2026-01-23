@@ -1,7 +1,7 @@
-<!-- Fully dynamic & visual profile for: Mahjabin Siddika Oyshi -->
+<!-- Ultra-dynamic profile for: Mahjabin Siddika Oyshi -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=F97316&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Mahjabin+Siddika+Oyshi;Data+Analyst+%7C+Data+Science+Enthusiast;ML+Enthusiast+%7C+Statistician+%26+R+Lover;Open%E2%80%91Source+Contributor+to+the+R+Ecosystem" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=F97316&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Mahjabin+Siddika+Oyshi;Data+Analyst+%7C+Data+Science+Enthusiast;ML+Enthusiast+%7C+Statistician+%26+R+Lover;Open%E2%80%91Source+Contributor+to+the+R+Ecosystem" alt="Typing Intro" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/github/followers/mahjabinoyshi?label=Followers&style=for-the-badge&color=8B5CF6" alt="GitHub followers" />
   </a>
   <a href="https://github.com/mahjabinoyshi?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-Explore-22C55E?style=for-the-badge&logo=github" alt="Repos" />
+    <img src="https://img.shields.io/badge/Public%20Repos-Explore-22C55E?style=for-the-badge&logo=github" alt="Repos" />
   </a>
 </p>
 
@@ -42,9 +42,8 @@
   <img src="https://github-widgetbox.vercel.app/api/profile?username=mahjabinoyshi&data=followers,repositories,stars,commits&theme=nautilus" alt="Profile Widget" />
 </p>
 
-Hello, I am Oyshi, passionate about turning raw data into meaningful insights and currently working as a **Data Analytics TA at Ostad**.  
-I am actively exploring **R Programming**, **Data Analytics**, **Machine Learning**, and **NLP**, with a strong focus on open‑source contributions in the R ecosystem.  
-My goal is to contribute to impactful open‑source projects and grow in the global, data‑driven world.
+Hello, I am Oyshi. I am passionate about turning raw data into meaningful insights and work as a **Data Analytics TA at Ostad**, guiding learners in Excel, SQL, and Power BI.  
+I explore **R Programming, Data Analytics, Machine Learning, and NLP**, and actively contribute to open‑source projects in the **R ecosystem**.  
 
 ---
 
@@ -69,11 +68,11 @@ My goal is to contribute to impactful open‑source projects and grow in the glo
 
 <p align="center">
   <img src="https://img.shields.io/badge/Statistics-1D4ED8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EDA-0EA5E9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Analytics-9333EA?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Visualization-EC4899?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Machine%20Learning-059669?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NLP-F97316?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/EDA-0EA5E9?style=for-the-badge" />
 </p>
 
 ---
@@ -81,24 +80,25 @@ My goal is to contribute to impactful open‑source projects and grow in the glo
 ## 🌍 Open‑Source Contributions
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=22C55E&center=true&vCenter=true&width=900&lines=Active+Contributor+to+the+R+Ecosystem;Comfortable+with+Issues+%26+Pull+Requests;Love+Docs%2C+Testing%2C+and+Developer+Experience" alt="OSS typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=22C55E&center=true&vCenter=true&width=900&lines=Active+Contributor+to+the+R+Ecosystem;Comfortable+with+Issues%2C+Reviews+%26+Pull+Requests;Love+Docs%2C+Testing%2C+and+Developer+Experience" alt="OSS typing" />
 </p>
 
 - **R Project for Statistical Computing – Contributor**  
-  Improved documentation for the `BY` option of `p.adjust()` (Bug 17136) and clarified the Benjamini–Yekutieli procedure; patch reviewed and merged by an R Core developer.  
+  Improved documentation for the `BY` option of `p.adjust()` (Bug 17136), clarifying the Benjamini–Yekutieli procedure; patch reviewed and merged by an R Core developer.  
 
-- **rOpenSci – weathercan (R package)**  
-  Contributed code and issue discussions for downloading and processing historical weather data; acknowledged in the contributors list.  
+- **rOpenSci – weathercan**  
+  Contributed code and issue discussions for an R package that downloads and processes historical weather data from Environment and Climate Change Canada.  
 
 - **tidyverse – forcats**  
-  Proposed and documented an updated help topic for `fct_lump()` to clarify its superseded status and reduce confusion.  
+  Proposed and documented a separate help topic for `fct_lump()`, clarifying its superseded status and reducing confusion.  
 
 - **stopwords‑iso & stopwords‑bn**  
-  Extended Bengali stopword coverage and improved multilingual NLP support.  
+  Added Bengali stopwords and improved multilingual text‑analysis coverage.  
 
 - **srvyr**  
-  Reported and discussed an edge case in `survey_median()` with `quantiles`, helping refine survey statistics behavior.  
+  Reported and discussed an edge case in `survey_median()` with `quantiles`, helping refine survey‑statistics behavior.  
 
+---
 
 ## 📊 GitHub Analytics (Live)
 
@@ -123,13 +123,13 @@ My goal is to contribute to impactful open‑source projects and grow in the glo
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=mahjabinoyshi&theme=tokyo-night&area=true&hide_border=false" 
-    alt="Contribution Graph"
+    alt="Mahjabin Siddika Oyshi's Contribution Graph"
   />
 </p>
 
 ---
 
-## 🚀 Highlighted Projects (Clickable Cards)
+## 🚀 Highlighted Projects
 
 <p align="center">
   <!-- Replace repo names with exact names from your GitHub -->
@@ -141,41 +141,41 @@ My goal is to contribute to impactful open‑source projects and grow in the glo
   </a>
 </p>
 
-- **Bangla Agricultural Advisor Chatbot (Streamlit, NLP)** – Bangla chatbot to assist farmers with crop queries (no paid APIs).  
-- **Students’ Mental Health Dashboard (Power BI)** – Interactive dashboard highlighting drivers of poor mental health (finance, sleep, exams, etc.).  
-- **Coffee Shop Sales Analysis** – Hackathon dashboard (4th place, CoU IT Society).  
-- **E‑commerce Customer Behaviour Dashboard** – National 2nd Runner‑up (AI Expert Career).  
+- **Bangla Agricultural Advisor Chatbot (Streamlit, NLP)** – Bangla chatbot (no paid APIs) helping farmers with crop and farming queries.  
+- **Students’ Mental Health Dashboard (Power BI)** – Interactive dashboard showing factors behind poor mental health (finance, sleep, exams, etc.).  
+- **Coffee Shop Sales Analysis Dashboard** – Hackathon project (4th place, CoU IT Society).  
+- **E‑commerce Customer Behaviour Analytics Dashboard** – National 2nd Runner‑up (AI Expert Career).  
 
 ---
 
-## 📚 Research & Publications (Visual)
+## 📚 Research & Publications
 
 <p align="center">
   <img src="https://img.shields.io/badge/Research-CNN%20%7C%20GAN%20%7C%20Blockchain%20%7C%20Cybersecurity-0F766E?style=for-the-badge" />
 </p>
 
 - **Quantized & Lightweight CNN for Multiclass Malaria Parasite Detection** – Under review (COMPAS 2025).  
-- **Conditional GAN for Censoring‑Aware Survival Prediction** – Under review (COMPAS 2025).  
-- **Blockchain for Supply Chain Transparency** – Journal of Computer Science and Technology Studies (2025).  
-- **Advanced ML for Cybersecurity** – Journal of Computer Science and Technology Studies (2025).  
+- **Conditional GAN for Censoring‑Aware Survival Prediction in Allogeneic HCT** – Under review (COMPAS 2025).  
+- **Blockchain for Supply Chain Transparency** – Journal of Computer Science and Technology Studies, 2025.  
+- **Advanced ML Techniques for Cybersecurity** – Journal of Computer Science and Technology Studies, 2025.  
 
 ---
 
-## 🏆 Achievements (Animated Badges Feel)
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/National%20Competitions-Active%20Participant-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/National%20Competitions-Top%20Performer-F97316?style=for-the-badge" />
 </p>
 
+- 🎓 **Nutan India–Bangladesh Maitree Muktijoddha Sontan Scholarship (2024)** – Merit‑based undergraduate scholarship.  
 - 🥈 2nd Runner‑up – **Data Innovators Challenge** (AI Expert Career).  
 - 🏅 4th Place – **CoU Hackathon 2024** (Comilla University IT Society).  
 - 🎖️ Top Participant – **Battle of Insights** (Data Solution 360).  
 - 🎖️ Top Participant – **Data Visualization Competition**, 6th Economics Summit, University of Dhaka.  
-- 🎓 **Nutan India–Bangladesh Maitree Muktijoddha Sontan Scholarship (2024)** – Merit‑based scholarship.  
 
 ---
 
-## 📚 Learning Focus (2026)
+## 📚 Currently Learning
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=3B82F6&center=true&vCenter=true&width=900&lines=R+Programming+%26+Machine+Learning+in+R;R+Package+Development;Statistical+Modeling+in+R;Open%E2%80%91Source+Contribution+Workflow" alt="Learning typing" />
@@ -184,15 +184,15 @@ My goal is to contribute to impactful open‑source projects and grow in the glo
 - R Programming & Machine Learning with R  
 - R Package Development  
 - Statistical Modeling in R  
-- Open‑source workflows (issues, PRs, code review, testing)  
+- Open‑source contribution workflow (issues, PRs, testing, reviews)  
 
 ---
 
 ## 🎯 2026 Focus
 
-- Contribute to **R**, **rOpenSci**, **tidyverse**, or data/ML‑focused orgs.  
-- Work on **documentation + testing + feature work** for data, NLP, or visualization libraries.  
-- Build tools that make **statistics and data science more accessible** in multilingual contexts (Bangla included).  
+- Contribute to **R**, **rOpenSci**, **tidyverse**, or other data/ML/NLP‑focused orgs.  
+- Work on **documentation, testing, and feature development** for data, NLP, and visualization libraries.  
+- Build tools that make **statistics and data science more accessible**, especially for **Bangla** and multilingual contexts.  
 
 ---
 
