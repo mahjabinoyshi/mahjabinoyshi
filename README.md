@@ -39,10 +39,15 @@
 
 ## 👩‍💻 About Me  
 
-<img 
-  src="https://github-widgetbox.vercel.app/api/profile?username=mahjabinoyshi&data=followers,repositories,stars,commits&theme=radical" 
-/>
+## 👩‍💻 About Me  
 
+<div align="center" style="margin-top: 10px; margin-bottom: 20px;">
+  <img 
+    src="https://github-widgetbox.vercel.app/api/profile?username=mahjabinoyshi&data=followers,repositories,stars,commits&theme=nautilus" 
+    alt="Profile Widget" 
+  />
+</div>
+---
 
 
 ## 🧠 Tech Stack & Skills
