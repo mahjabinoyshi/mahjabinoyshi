@@ -99,9 +99,6 @@ My goal is to contribute to impactful open‑source projects and grow in the glo
 - **srvyr**  
   Reported and discussed an edge case in `survey_median()` with `quantiles`, helping refine survey statistics behavior.  
 
-> This section is perfect for GSoC mentors to see real open‑source, reviewable work.
-
----
 
 ## 📊 GitHub Analytics (Live)
 
