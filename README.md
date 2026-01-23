@@ -78,7 +78,7 @@ My goal is to contribute to impactful open‑source projects and grow in the glo
 
 ---
 
-## 🌍 Open‑Source & GSoC‑Friendly Work
+## 🌍 Open‑Source Contributions
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=22C55E&center=true&vCenter=true&width=900&lines=Active+Contributor+to+the+R+Ecosystem;Comfortable+with+Issues+%26+Pull+Requests;Love+Docs%2C+Testing%2C+and+Developer+Experience" alt="OSS typing" />
@@ -191,7 +191,7 @@ My goal is to contribute to impactful open‑source projects and grow in the glo
 
 ---
 
-## 🎯 GSoC Focus
+## 🎯 2026 Focus
 
 - Contribute to **R**, **rOpenSci**, **tidyverse**, or data/ML‑focused orgs.  
 - Work on **documentation + testing + feature work** for data, NLP, or visualization libraries.  
