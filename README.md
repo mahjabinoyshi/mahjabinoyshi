@@ -37,7 +37,6 @@
 ---
 
 
-## 👩‍💻 About Me  
 
 ## 👩‍💻 About Me  
 
@@ -123,7 +122,6 @@ I explore <b>R Programming</b>, <b>Data Analytics</b>, <b>Machine Learning</b>, 
 
 ## 📊 GitHub Analytics (Live)
 
-## 📊 GitHub Analytics (Live)
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
@@ -158,24 +156,29 @@ I explore <b>R Programming</b>, <b>Data Analytics</b>, <b>Machine Learning</b>, 
 </div>
 
 
----
+---  
 
-## 🚀 Highlighted Projects
+
+## 🚀 Highlighted Projects  
 
 <p align="center">
-  <!-- Replace repo names with exact names from your GitHub -->
-  <a href="https://github.com/mahjabinoyshi/bangla-agricultural-advisor-chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahjabinoyshi&repo=bangla-agricultural-advisor-chatbot&theme=radical" />
+  <!-- 1. Bangla Agricultural Advisor Chatbot -->
+  <a href="https://github.com/mahjabinoyshi/Bangla-Agricultural-Advisor-Chatbot-using-Streamlit-Without-API">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=mahjabinoyshi&repo=Bangla-Agricultural-Advisor-Chatbot-using-Streamlit-Without-API&theme=radical" 
+      alt="Bangla Agricultural Advisor Chatbot using Streamlit (Without API)" 
+    />
   </a>
-  <a href="https://github.com/mahjabinoyshi/students-mental-health-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahjabinoyshi&repo=students-mental-health-dashboard&theme=radical" />
+
+  <!-- 2. Students’ Mental Health Dashboard (folder in profile repo) -->
+  <a href="https://github.com/mahjabinoyshi/mahjabinoyshi/tree/main/projects/students-mental-health-dashboard">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=mahjabinoyshi&repo=mahjabinoyshi&theme=radical&description_lines_count=2" 
+      alt="Students’ Mental Health Dashboard" 
+    />
   </a>
 </p>
-
-- **Bangla Agricultural Advisor Chatbot (Streamlit, NLP)** – Bangla chatbot (no paid APIs) helping farmers with crop and farming queries.  
-- **Students’ Mental Health Dashboard (Power BI)** – Interactive dashboard showing factors behind poor mental health (finance, sleep, exams, etc.).  
-- **Coffee Shop Sales Analysis Dashboard** – Hackathon project (4th place, CoU IT Society).  
-- **E‑commerce Customer Behaviour Analytics Dashboard** – National 2nd Runner‑up (AI Expert Career).  
+ 
 
 ---
 
