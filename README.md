@@ -141,9 +141,10 @@ I explore <b>R Programming</b>, <b>Data Analytics</b>, <b>Machine Learning</b>, 
 <div align="center" style="margin-top: 10px;">
 
   <img
-    src="https://streak-stats.demolab.com?user=mahjabinoyshi&theme=radical&hide_border=false"
-    alt="GitHub Streak"
+  src="https://github-readme-streak-stats-eight.vercel.app?user=mahjabinoyshi&theme=radical&hide_border=false"
+  alt="GitHub Streak"
   />
+
 
 </div>
 
