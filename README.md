@@ -126,11 +126,6 @@ I explore <b>R Programming</b>, <b>Data Analytics</b>, <b>Machine Learning</b>, 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=mahjabinoyshi&show_icons=true&theme=radical&count_private=true&hide_border=false"
-    alt="GitHub Stats" height="170"
-  />
-
-  <img
   src="https://github-readme-stats.vercel.app/api?username=mahjabinoyshi&show_icons=true&theme=radical&count_private=true&hide_border=false&show=prs_merged,prs_merged_percentage"
   alt="GitHub Stats (with PRs merged)" height="170"
   />
